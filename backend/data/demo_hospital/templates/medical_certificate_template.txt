@@ -1,0 +1,57 @@
+MEDICAL CERTIFICATE TEMPLATE
+Category: template
+Disease: null
+
+---
+
+STANDARD MEDICAL CERTIFICATE FORMAT
+
+DRAFT MEDICAL CERTIFICATE - REQUIRES CLINICIAN REVIEW
+
+Healthcare Facility: [FACILITY NAME]
+Address: [FACILITY ADDRESS]
+Date: [DATE]
+Reference: [DOCUMENT ID]
+
+PATIENT INFORMATION
+Patient ID: [PATIENT ID]
+Patient Name: [TO BE COMPLETED BY CLINICIAN]
+
+CERTIFICATE PURPOSE
+This certificate is issued for the purpose of: [PURPOSE]
+
+CONSULTATION DETAILS
+Date(s) of Consultation: [TO BE COMPLETED BY CLINICIAN]
+Clinical Observations: [TO BE COMPLETED BY CLINICIAN]
+
+RECOMMENDATION
+Recommended Period: [TO BE DETERMINED BY CLINICIAN]
+
+AUTHORIZATION
+This document is a DRAFT and is NOT VALID for official purposes until:
+1. Reviewed by a licensed clinician
+2. Clinical information completed
+3. Signed and stamped by authorized personnel
+
+Clinician Signature: _________________________
+Clinician Name: [TO BE COMPLETED]
+License Number: [TO BE COMPLETED]
+Date of Issue: [TO BE COMPLETED AFTER REVIEW]
+
+---
+
+DRAFT DOCUMENT DISCLAIMER
+
+This medical certificate is generated as a DRAFT document only. It contains no diagnosis, no treatment recommendations, and no fitness determinations. The document serves as an administrative template to be completed by a reviewing clinician. It is not valid for any official purpose until properly reviewed, completed, and signed by a licensed healthcare provider. The reviewing clinician is solely responsible for all clinical content added to this document.
+
+---
+
+CERTIFICATE USAGE GUIDANCE
+
+Medical certificates are commonly requested for attendance verification at medical appointments, documentation of rest periods recommended by healthcare providers, administrative records for workplace or educational institutions, and travel or activity clearance (requires clinical assessment). All certificates must clearly state their purpose and limitations. Draft certificates must never be presented as official documents.
+
+---
+
+CLINICIAN REVIEW REQUIREMENTS
+
+Before signing, the reviewing clinician must verify patient identity and information, complete all clinical observations based on examination, determine appropriate recommendations based on clinical judgment, ensure compliance with institutional policies, remove or update any placeholder text, and add facility stamp and personal signature. The clinician assumes full responsibility for the final document content.

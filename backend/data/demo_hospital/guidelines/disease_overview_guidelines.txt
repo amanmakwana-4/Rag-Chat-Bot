@@ -1,0 +1,33 @@
+DISEASE OVERVIEW WRITING GUIDELINES
+Category: guideline
+Disease: null
+
+---
+
+EDUCATIONAL HEALTH CONTENT STANDARDS
+
+When creating disease overviews, the content must be educational and informational in nature. The primary purpose is to help readers understand general concepts about health conditions without providing specific medical advice. All content should encourage consultation with qualified healthcare providers for personal health decisions.
+
+---
+
+DISEASE OVERVIEW LANGUAGE GUIDELINES
+
+Use clear accessible language appropriate for general audiences at approximately 6th to 8th grade reading level. Avoid technical medical jargon without explanation. Present information in a balanced non-alarming manner. Use objective tone without emotional language. Define medical terms when they must be used. Write in complete sentences with proper paragraph structure.
+
+---
+
+DISEASE OVERVIEW REQUIRED SECTIONS
+
+A complete disease overview should include what the condition is with a general description, commonly reported signs and symptoms presented for awareness not diagnosis, general risk factors that may increase likelihood, prevention strategies and protective factors, guidance on when to see a healthcare provider, and general lifestyle considerations that may support health.
+
+---
+
+DISEASE OVERVIEW CONTENT RESTRICTIONS
+
+Disease overview content must NOT include specific diagnostic criteria that could enable self-diagnosis, detailed treatment protocols or procedures, specific medication names or dosage information, specific prognosis predictions or outcomes, claims of cure or guaranteed treatment outcomes, or advice that should only come from a treating physician.
+
+---
+
+DISEASE OVERVIEW TONE AND APPROACH
+
+The tone should be supportive and informative without being prescriptive. Empower readers with general knowledge while emphasizing the importance of professional medical guidance. Acknowledge individual variation in health conditions. Present risk factors as possibilities not certainties. Use phrases like "may include" and "can vary" to avoid absolute statements.

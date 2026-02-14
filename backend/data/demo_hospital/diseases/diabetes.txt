@@ -1,0 +1,39 @@
+DISEASE: TYPE 2 DIABETES
+Category: disease
+Disease: diabetes
+
+---
+
+WHAT IS TYPE 2 DIABETES
+
+Type 2 diabetes is a chronic metabolic condition that affects how the body processes blood sugar (glucose). In this condition, the body either resists the effects of insulin (a hormone that regulates sugar movement into cells) or does not produce enough insulin to maintain normal glucose levels. Glucose is an essential source of energy for cells, and its regulation is crucial for overall health. Type 2 diabetes is the most common form of diabetes and can develop at any age, though it is more common in adults. The condition develops gradually and can be influenced by both genetic and lifestyle factors.
+
+---
+
+TYPE 2 DIABETES RISK FACTORS
+
+Multiple factors may increase the likelihood of developing type 2 diabetes. These include excess body weight particularly around the abdomen, physical inactivity and sedentary lifestyle, family history of diabetes in parents or siblings, age over 45 years (though increasingly seen in younger individuals), history of gestational diabetes during pregnancy, polycystic ovary syndrome, and certain ethnic backgrounds including African American, Hispanic, Native American, and Asian American populations. Prediabetes, a condition of elevated blood sugar not yet at diabetic levels, is also a significant risk factor.
+
+---
+
+TYPE 2 DIABETES SIGNS AND SYMPTOMS
+
+Common signs and symptoms of type 2 diabetes include increased thirst and frequent urination, unexplained weight loss despite normal or increased appetite, increased hunger, fatigue and feeling tired more than usual, blurred vision or changes in eyesight, slow-healing cuts bruises or infections, tingling numbness or pain in hands and feet, and areas of darkened skin particularly in armpits and neck. Some individuals may have type 2 diabetes for years without noticeable symptoms, making regular screening important.
+
+---
+
+TYPE 2 DIABETES LIFESTYLE CONSIDERATIONS
+
+Lifestyle plays a significant role in diabetes management. Key considerations include maintaining a balanced diet with appropriate portions of carbohydrates proteins and healthy fats, engaging in regular physical activity as recommended by healthcare providers, achieving and maintaining a healthy weight, monitoring blood sugar levels as directed, getting adequate sleep and rest, managing stress effectively, and avoiding tobacco products. Working with healthcare providers and diabetes educators can help develop personalized approaches to daily management.
+
+---
+
+WHEN TO CONSULT HEALTHCARE PROVIDER ABOUT DIABETES
+
+Seek guidance from a healthcare provider if you experience symptoms mentioned above, have risk factors for diabetes, have not had blood sugar screening recently, experience extreme thirst or frequent urination, notice unexplained weight changes, have wounds that heal slowly, experience numbness or tingling in extremities, have blurred vision or eye problems, or have questions about family history and your personal risk. Regular monitoring and early intervention support better health outcomes.
+
+---
+
+TYPE 2 DIABETES AND DAILY LIFE
+
+Living with type 2 diabetes involves ongoing attention to daily habits and regular communication with healthcare providers. Blood sugar levels can be influenced by food choices, physical activity, stress, illness, and other factors. Understanding these connections helps individuals make informed decisions. Support from healthcare teams, diabetes educators, family members, and community resources can be valuable. Advances in understanding and management continue to improve quality of life for those with this condition.

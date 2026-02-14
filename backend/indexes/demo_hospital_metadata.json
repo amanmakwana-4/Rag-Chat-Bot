@@ -1,0 +1,450 @@
+[
+  {
+    "text": "WHAT IS TYPE 2 DIABETES\n\nType 2 diabetes is a chronic metabolic condition that affects how the body processes blood sugar (glucose). In this condition, the body either resists the effects of insulin (a hormone that regulates sugar movement into cells) or does not produce enough insulin to maintain normal glucose levels. Glucose is an essential source of energy for cells, and its regulation is crucial for overall health. Type 2 diabetes is the most common form of diabetes and can develop at any age, though it is more common in adults. The condition develops gradually and can be influenced by both genetic and lifestyle factors.",
+    "category": "disease",
+    "disease": "diabetes",
+    "hospital_id": "demo_hospital",
+    "source_file": "diabetes.txt",
+    "chunk_index": 0
+  },
+  {
+    "text": "TYPE 2 DIABETES RISK FACTORS\n\nMultiple factors may increase the likelihood of developing type 2 diabetes. These include excess body weight particularly around the abdomen, physical inactivity and sedentary lifestyle, family history of diabetes in parents or siblings, age over 45 years (though increasingly seen in younger individuals), history of gestational diabetes during pregnancy, polycystic ovary syndrome, and certain ethnic backgrounds including African American, Hispanic, Native American, and Asian American populations. Prediabetes, a condition of elevated blood sugar not yet at diabetic levels, is also a significant risk factor.",
+    "category": "disease",
+    "disease": "diabetes",
+    "hospital_id": "demo_hospital",
+    "source_file": "diabetes.txt",
+    "chunk_index": 1
+  },
+  {
+    "text": "TYPE 2 DIABETES SIGNS AND SYMPTOMS\n\nCommon signs and symptoms of type 2 diabetes include increased thirst and frequent urination, unexplained weight loss despite normal or increased appetite, increased hunger, fatigue and feeling tired more than usual, blurred vision or changes in eyesight, slow-healing cuts bruises or infections, tingling numbness or pain in hands and feet, and areas of darkened skin particularly in armpits and neck. Some individuals may have type 2 diabetes for years without noticeable symptoms, making regular screening important.",
+    "category": "disease",
+    "disease": "diabetes",
+    "hospital_id": "demo_hospital",
+    "source_file": "diabetes.txt",
+    "chunk_index": 2
+  },
+  {
+    "text": "TYPE 2 DIABETES LIFESTYLE CONSIDERATIONS\n\nLifestyle plays a significant role in diabetes management. Key considerations include maintaining a balanced diet with appropriate portions of carbohydrates proteins and healthy fats, engaging in regular physical activity as recommended by healthcare providers, achieving and maintaining a healthy weight, monitoring blood sugar levels as directed, getting adequate sleep and rest, managing stress effectively, and avoiding tobacco products. Working with healthcare providers and diabetes educators can help develop personalized approaches to daily management.",
+    "category": "disease",
+    "disease": "diabetes",
+    "hospital_id": "demo_hospital",
+    "source_file": "diabetes.txt",
+    "chunk_index": 3
+  },
+  {
+    "text": "WHEN TO CONSULT HEALTHCARE PROVIDER ABOUT DIABETES\n\nSeek guidance from a healthcare provider if you experience symptoms mentioned above, have risk factors for diabetes, have not had blood sugar screening recently, experience extreme thirst or frequent urination, notice unexplained weight changes, have wounds that heal slowly, experience numbness or tingling in extremities, have blurred vision or eye problems, or have questions about family history and your personal risk. Regular monitoring and early intervention support better health outcomes.",
+    "category": "disease",
+    "disease": "diabetes",
+    "hospital_id": "demo_hospital",
+    "source_file": "diabetes.txt",
+    "chunk_index": 4
+  },
+  {
+    "text": "TYPE 2 DIABETES AND DAILY LIFE\n\nLiving with type 2 diabetes involves ongoing attention to daily habits and regular communication with healthcare providers. Blood sugar levels can be influenced by food choices, physical activity, stress, illness, and other factors. Understanding these connections helps individuals make informed decisions. Support from healthcare teams, diabetes educators, family members, and community resources can be valuable. Advances in understanding and management continue to improve quality of life for those with this condition.",
+    "category": "disease",
+    "disease": "diabetes",
+    "hospital_id": "demo_hospital",
+    "source_file": "diabetes.txt",
+    "chunk_index": 5
+  },
+  {
+    "text": "WHAT IS HYPERTENSION\n\nHypertension, commonly known as high blood pressure, is a chronic medical condition where the blood pressure in the arteries is persistently elevated. Blood pressure is measured using two numbers: systolic pressure (when the heart beats) and diastolic pressure (when the heart rests between beats). Hypertension is often called the \"silent killer\" because many people have it without experiencing noticeable symptoms. Regular blood pressure monitoring is essential for early detection and management. The condition affects the cardiovascular system and can impact multiple organs over time if not properly managed.",
+    "category": "disease",
+    "disease": "hypertension",
+    "hospital_id": "demo_hospital",
+    "source_file": "hypertension.txt",
+    "chunk_index": 0
+  },
+  {
+    "text": "HYPERTENSION RISK FACTORS\n\nSeveral factors may increase the risk of developing hypertension. Non-modifiable risk factors include family history of high blood pressure, advancing age (risk increases after age 45 for men and 65 for women), and genetic predisposition. Modifiable risk factors include excess body weight or obesity, physical inactivity and sedentary lifestyle, high sodium (salt) intake in diet, excessive alcohol consumption, chronic stress, and tobacco use including smoking. Certain underlying conditions may also contribute to elevated blood pressure readings.",
+    "category": "disease",
+    "disease": "hypertension",
+    "hospital_id": "demo_hospital",
+    "source_file": "hypertension.txt",
+    "chunk_index": 1
+  },
+  {
+    "text": "HYPERTENSION SIGNS AND SYMPTOMS\n\nMany individuals with hypertension experience no obvious symptoms, which is why regular screening is important. When symptoms do occur, they may include persistent headaches particularly in the morning, shortness of breath during normal activities, nosebleeds more frequent than usual, dizziness or lightheadedness, chest discomfort, visual disturbances such as blurred vision, and fatigue. Severe hypertension may cause more pronounced symptoms requiring immediate medical attention.",
+    "category": "disease",
+    "disease": "hypertension",
+    "hospital_id": "demo_hospital",
+    "source_file": "hypertension.txt",
+    "chunk_index": 2
+  },
+  {
+    "text": "HYPERTENSION LIFESTYLE CONSIDERATIONS\n\nManaging blood pressure often involves lifestyle modifications. These include maintaining a healthy weight appropriate for your body type, engaging in regular physical activity as recommended by your healthcare provider, following a balanced diet rich in fruits vegetables and whole grains while limiting sodium intake, reducing alcohol consumption, managing stress through relaxation techniques and adequate rest, avoiding tobacco products, and maintaining regular sleep patterns. These lifestyle changes may help support overall cardiovascular health.",
+    "category": "disease",
+    "disease": "hypertension",
+    "hospital_id": "demo_hospital",
+    "source_file": "hypertension.txt",
+    "chunk_index": 3
+  },
+  {
+    "text": "WHEN TO CONSULT HEALTHCARE PROVIDER ABOUT HYPERTENSION\n\nYou should consult a healthcare provider about hypertension if you have readings consistently above normal range, experience any symptoms mentioned above, have a family history of high blood pressure or cardiovascular disease, are pregnant and have elevated blood pressure readings, experience sudden severe headaches or vision changes, have chest pain or difficulty breathing, or want guidance on lifestyle modifications. Regular check-ups are recommended for monitoring and early intervention.",
+    "category": "disease",
+    "disease": "hypertension",
+    "hospital_id": "demo_hospital",
+    "source_file": "hypertension.txt",
+    "chunk_index": 4
+  },
+  {
+    "text": "HYPERTENSION AND OVERALL HEALTH\n\nHypertension management is an important component of overall cardiovascular health. Working closely with healthcare providers helps individuals understand their specific situation and develop appropriate management strategies. Blood pressure can fluctuate based on many factors including time of day, stress levels, physical activity, and dietary intake. Consistent monitoring and communication with healthcare providers supports informed health decisions.",
+    "category": "disease",
+    "disease": "hypertension",
+    "hospital_id": "demo_hospital",
+    "source_file": "hypertension.txt",
+    "chunk_index": 5
+  },
+  {
+    "text": "WHAT IS RESPIRATORY HEALTH\n\nRespiratory health refers to the overall condition and function of the respiratory system, which includes the lungs, airways, and breathing muscles. The respiratory system is responsible for bringing oxygen into the body and removing carbon dioxide. Maintaining good respiratory health is essential for overall well-being and quality of life. Common respiratory concerns range from acute conditions like infections to chronic conditions that require ongoing management. Understanding respiratory health helps individuals make informed decisions about prevention and when to seek care.",
+    "category": "disease",
+    "disease": "respiratory_health",
+    "hospital_id": "demo_hospital",
+    "source_file": "respiratory_health.txt",
+    "chunk_index": 0
+  },
+  {
+    "text": "RESPIRATORY HEALTH RISK FACTORS\n\nSeveral factors can affect respiratory health and increase risk for respiratory conditions. These include tobacco smoking and exposure to secondhand smoke, air pollution and poor indoor air quality, occupational exposure to dust fumes or chemicals, history of respiratory infections in childhood, family history of respiratory conditions, allergies and allergic reactions, weakened immune system, advancing age, and living in areas with high pollution levels. Certain occupations may carry higher respiratory risks requiring protective measures.",
+    "category": "disease",
+    "disease": "respiratory_health",
+    "hospital_id": "demo_hospital",
+    "source_file": "respiratory_health.txt",
+    "chunk_index": 1
+  },
+  {
+    "text": "RESPIRATORY SYMPTOMS TO MONITOR\n\nImportant respiratory symptoms that warrant attention include persistent cough lasting more than three weeks, shortness of breath during normal daily activities, wheezing or noisy breathing, chest tightness or discomfort when breathing, producing mucus or phlegm regularly, coughing up blood or blood-tinged mucus, recurring respiratory infections, unexplained fatigue related to breathing effort, and difficulty breathing when lying down. Changes in breathing patterns or new respiratory symptoms should be discussed with healthcare providers.",
+    "category": "disease",
+    "disease": "respiratory_health",
+    "hospital_id": "demo_hospital",
+    "source_file": "respiratory_health.txt",
+    "chunk_index": 2
+  },
+  {
+    "text": "RESPIRATORY HEALTH LIFESTYLE CONSIDERATIONS\n\nSupporting respiratory health involves several lifestyle practices. These include avoiding tobacco smoke and vaping products, maintaining good indoor air quality through proper ventilation, using air filters when appropriate, practicing good hand hygiene to prevent respiratory infections, staying current with recommended vaccinations, exercising regularly to support lung function, maintaining healthy weight, staying hydrated, avoiding known respiratory irritants and allergens, and using protective equipment in dusty or polluted environments.",
+    "category": "disease",
+    "disease": "respiratory_health",
+    "hospital_id": "demo_hospital",
+    "source_file": "respiratory_health.txt",
+    "chunk_index": 3
+  },
+  {
+    "text": "WHEN TO SEEK CARE FOR RESPIRATORY CONCERNS\n\nConsult a healthcare provider about respiratory health if you experience persistent cough that does not improve, shortness of breath with minimal exertion, wheezing or difficulty breathing, chest pain when breathing or coughing, coughing up blood, recurring respiratory infections, significant changes in breathing patterns, exposure to respiratory hazards at work or home, or have concerns about lung health based on risk factors. Emergency care should be sought for severe breathing difficulty, blue lips or fingernails, or inability to speak due to breathlessness.",
+    "category": "disease",
+    "disease": "respiratory_health",
+    "hospital_id": "demo_hospital",
+    "source_file": "respiratory_health.txt",
+    "chunk_index": 4
+  },
+  {
+    "text": "RESPIRATORY HEALTH AND PREVENTION\n\nPreventive measures play an important role in maintaining respiratory health. Regular health check-ups can help identify potential concerns early. Avoiding known risk factors, particularly smoking, significantly benefits lung health. Protecting the airways from environmental pollutants, maintaining physical fitness to support breathing capacity, and addressing allergies appropriately all contribute to respiratory wellness. Open communication with healthcare providers about respiratory symptoms supports timely evaluation and appropriate guidance.",
+    "category": "disease",
+    "disease": "respiratory_health",
+    "hospital_id": "demo_hospital",
+    "source_file": "respiratory_health.txt",
+    "chunk_index": 5
+  },
+  {
+    "text": "MEDICAL CERTIFICATE TEMPLATE GUIDELINES",
+    "category": "template",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "medical_certificate_guidelines.txt",
+    "chunk_index": 0
+  },
+  {
+    "text": "MEDICAL CERTIFICATE STRUCTURE\n\nA medical certificate is an official document that must follow strict formatting guidelines. The document serves administrative purposes and requires proper authorization before use. Medical certificates may be requested for various purposes including attendance verification, rest period documentation, and fitness assessments. All certificates generated through this system are DRAFT documents requiring clinician review and signature.",
+    "category": "template",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "medical_certificate_guidelines.txt",
+    "chunk_index": 1
+  },
+  {
+    "text": "MEDICAL CERTIFICATE HEADER REQUIREMENTS\n\nThe header section of a medical certificate must include the document title clearly stating \"MEDICAL CERTIFICATE\" in prominent text, the healthcare facility name and complete address, the date of document generation, a unique document reference number for tracking purposes, and clear indication that the document is a DRAFT pending clinician review.",
+    "category": "template",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "medical_certificate_guidelines.txt",
+    "chunk_index": 2
+  },
+  {
+    "text": "MEDICAL CERTIFICATE PATIENT SECTION\n\nThe patient information section must include the patient identifier using ID number only (no personal details in draft), a designated space for the patient name to be completed by the reviewing clinician, and the hospital or facility ID for record association. Personal identifying information should be minimized in draft documents and completed only during clinician review.",
+    "category": "template",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "medical_certificate_guidelines.txt",
+    "chunk_index": 3
+  },
+  {
+    "text": "MEDICAL CERTIFICATE BODY CONTENT\n\nThe body of the certificate should include the stated purpose of the certificate such as attendance verification or rest period recommendation, the date or dates of medical consultation, recommended rest period if applicable with dates to be confirmed by clinician, space for clinical observations to be completed during review, and clear placeholders for any fields requiring clinician input.",
+    "category": "template",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "medical_certificate_guidelines.txt",
+    "chunk_index": 4
+  },
+  {
+    "text": "MEDICAL CERTIFICATE REQUIRED ELEMENTS\n\nEssential elements for a valid medical certificate include a clinician signature line with space for printed name, the clinician's license number field, the facility stamp or seal area, the official date of issue (after review), and appropriate formatting that meets institutional standards. Draft certificates must clearly indicate they are not valid without proper authorization.",
+    "category": "template",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "medical_certificate_guidelines.txt",
+    "chunk_index": 5
+  },
+  {
+    "text": "MEDICAL CERTIFICATE RESTRICTIONS\n\nMedical certificate drafts must NOT include any diagnostic statements or conclusions, specific treatment or medication information, fitness or unfitness determinations (requires clinical assessment), specific medical conditions without clinician verification, or any information that could be used without proper clinical review. All clinical determinations must be made by the reviewing clinician.",
+    "category": "template",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "medical_certificate_guidelines.txt",
+    "chunk_index": 6
+  },
+  {
+    "text": "MEDICAL CERTIFICATE TEMPLATE",
+    "category": "template",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "medical_certificate_template.txt",
+    "chunk_index": 0
+  },
+  {
+    "text": "STANDARD MEDICAL CERTIFICATE FORMAT\n\nDRAFT MEDICAL CERTIFICATE - REQUIRES CLINICIAN REVIEW\n\nHealthcare Facility: [FACILITY NAME]\nAddress: [FACILITY ADDRESS]\nDate: [DATE]\nReference: [DOCUMENT ID]\n\nPATIENT INFORMATION\nPatient ID: [PATIENT ID]\nPatient Name: [TO BE COMPLETED BY CLINICIAN]\n\nCERTIFICATE PURPOSE\nThis certificate is issued for the purpose of: [PURPOSE]\n\nCONSULTATION DETAILS\nDate(s) of Consultation: [TO BE COMPLETED BY CLINICIAN]\nClinical Observations: [TO BE COMPLETED BY CLINICIAN]\n\nRECOMMENDATION\nRecommended Period: [TO BE DETERMINED BY CLINICIAN]\n\nAUTHORIZATION\nThis document is a DRAFT and is NOT VALID for official purposes until:\n1. Reviewed by a licensed clinician\n2. Clinical information completed\n3. Signed and stamped by authorized personnel\n\nClinician Signature: _________________________\nClinician Name: [TO BE COMPLETED]\nLicense Number: [TO BE COMPLETED]\nDate of Issue: [TO BE COMPLETED AFTER REVIEW]",
+    "category": "template",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "medical_certificate_template.txt",
+    "chunk_index": 1
+  },
+  {
+    "text": "DRAFT DOCUMENT DISCLAIMER\n\nThis medical certificate is generated as a DRAFT document only. It contains no diagnosis, no treatment recommendations, and no fitness determinations. The document serves as an administrative template to be completed by a reviewing clinician. It is not valid for any official purpose until properly reviewed, completed, and signed by a licensed healthcare provider. The reviewing clinician is solely responsible for all clinical content added to this document.",
+    "category": "template",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "medical_certificate_template.txt",
+    "chunk_index": 2
+  },
+  {
+    "text": "CERTIFICATE USAGE GUIDANCE\n\nMedical certificates are commonly requested for attendance verification at medical appointments, documentation of rest periods recommended by healthcare providers, administrative records for workplace or educational institutions, and travel or activity clearance (requires clinical assessment). All certificates must clearly state their purpose and limitations. Draft certificates must never be presented as official documents.",
+    "category": "template",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "medical_certificate_template.txt",
+    "chunk_index": 3
+  },
+  {
+    "text": "CLINICIAN REVIEW REQUIREMENTS\n\nBefore signing, the reviewing clinician must verify patient identity and information, complete all clinical observations based on examination, determine appropriate recommendations based on clinical judgment, ensure compliance with institutional policies, remove or update any placeholder text, and add facility stamp and personal signature. The clinician assumes full responsibility for the final document content.",
+    "category": "template",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "medical_certificate_template.txt",
+    "chunk_index": 4
+  },
+  {
+    "text": "DISEASE OVERVIEW WRITING GUIDELINES",
+    "category": "guideline",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "disease_overview_guidelines.txt",
+    "chunk_index": 0
+  },
+  {
+    "text": "EDUCATIONAL HEALTH CONTENT STANDARDS\n\nWhen creating disease overviews, the content must be educational and informational in nature. The primary purpose is to help readers understand general concepts about health conditions without providing specific medical advice. All content should encourage consultation with qualified healthcare providers for personal health decisions.",
+    "category": "guideline",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "disease_overview_guidelines.txt",
+    "chunk_index": 1
+  },
+  {
+    "text": "DISEASE OVERVIEW LANGUAGE GUIDELINES\n\nUse clear accessible language appropriate for general audiences at approximately 6th to 8th grade reading level. Avoid technical medical jargon without explanation. Present information in a balanced non-alarming manner. Use objective tone without emotional language. Define medical terms when they must be used. Write in complete sentences with proper paragraph structure.",
+    "category": "guideline",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "disease_overview_guidelines.txt",
+    "chunk_index": 2
+  },
+  {
+    "text": "DISEASE OVERVIEW REQUIRED SECTIONS\n\nA complete disease overview should include what the condition is with a general description, commonly reported signs and symptoms presented for awareness not diagnosis, general risk factors that may increase likelihood, prevention strategies and protective factors, guidance on when to see a healthcare provider, and general lifestyle considerations that may support health.",
+    "category": "guideline",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "disease_overview_guidelines.txt",
+    "chunk_index": 3
+  },
+  {
+    "text": "DISEASE OVERVIEW CONTENT RESTRICTIONS\n\nDisease overview content must NOT include specific diagnostic criteria that could enable self-diagnosis, detailed treatment protocols or procedures, specific medication names or dosage information, specific prognosis predictions or outcomes, claims of cure or guaranteed treatment outcomes, or advice that should only come from a treating physician.",
+    "category": "guideline",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "disease_overview_guidelines.txt",
+    "chunk_index": 4
+  },
+  {
+    "text": "DISEASE OVERVIEW TONE AND APPROACH\n\nThe tone should be supportive and informative without being prescriptive. Empower readers with general knowledge while emphasizing the importance of professional medical guidance. Acknowledge individual variation in health conditions. Present risk factors as possibilities not certainties. Use phrases like \"may include\" and \"can vary\" to avoid absolute statements.",
+    "category": "guideline",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "disease_overview_guidelines.txt",
+    "chunk_index": 5
+  },
+  {
+    "text": "PATIENT EDUCATION GUIDELINES",
+    "category": "guideline",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "patient_education_guidelines.txt",
+    "chunk_index": 0
+  },
+  {
+    "text": "PATIENT EDUCATION PURPOSE\n\nPatient education materials serve to inform and empower individuals about health topics. The goal is to provide understandable information that supports communication between patients and healthcare providers. Education materials should complement not replace professional medical advice.",
+    "category": "guideline",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "patient_education_guidelines.txt",
+    "chunk_index": 1
+  },
+  {
+    "text": "PATIENT EDUCATION LANGUAGE STANDARDS\n\nUse 6th to 8th grade reading level for accessibility. Define medical terms when they must be used. Use short sentences and paragraphs for readability. Include visual organization with headers and bullet points. Avoid condescending tone while maintaining clarity. Write in active voice when possible.",
+    "category": "guideline",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "patient_education_guidelines.txt",
+    "chunk_index": 2
+  },
+  {
+    "text": "PATIENT EDUCATION CONTENT STRUCTURE\n\nEffective patient education includes clear topic identification at the beginning, key information presented in logical order, actionable items the reader can consider, guidance on when to seek professional help, resources for additional information, and clear disclaimer about the educational nature of the content.",
+    "category": "guideline",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "patient_education_guidelines.txt",
+    "chunk_index": 3
+  },
+  {
+    "text": "PATIENT EDUCATION FORMATTING STANDARDS\n\nFormat patient education materials with clear descriptive headings, bulleted lists for key points and symptoms, adequate white space for readability, consistent formatting throughout the document, emphasis on important safety information, and contact guidance for questions or concerns.",
+    "category": "guideline",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "patient_education_guidelines.txt",
+    "chunk_index": 4
+  },
+  {
+    "text": "PATIENT EDUCATION REQUIRED DISCLAIMERS\n\nAll patient education materials must include statements that the content is for educational purposes only, that individual situations vary and require professional assessment, that the information does not replace medical advice, and that readers should consult healthcare providers for personal health decisions.",
+    "category": "guideline",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "patient_education_guidelines.txt",
+    "chunk_index": 5
+  },
+  {
+    "text": "WELLNESS AND PREVENTIVE HEALTH",
+    "category": "wellness",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "preventive_health.txt",
+    "chunk_index": 0
+  },
+  {
+    "text": "GENERAL WELLNESS PRINCIPLES\n\nWellness encompasses physical mental and social well-being beyond merely the absence of illness. A holistic approach to health considers multiple interconnected factors including nutrition, physical activity, sleep, stress management, and social connections. Individual wellness needs vary based on age, health status, and personal circumstances. Healthcare providers can offer personalized guidance based on individual situations.",
+    "category": "wellness",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "preventive_health.txt",
+    "chunk_index": 1
+  },
+  {
+    "text": "BALANCED NUTRITION BASICS\n\nGood nutrition supports overall health and well-being. General principles include eating a variety of fruits and vegetables daily, choosing whole grains over refined grains, including lean proteins in meals, limiting processed and high-sodium foods, staying adequately hydrated with water, and practicing portion awareness. Individual dietary needs vary based on health conditions, activity levels, and other factors. Consult healthcare providers or registered dietitians for personalized nutrition guidance.",
+    "category": "wellness",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "preventive_health.txt",
+    "chunk_index": 2
+  },
+  {
+    "text": "PHYSICAL ACTIVITY RECOMMENDATIONS\n\nRegular physical activity supports cardiovascular health, strength, flexibility, and mental well-being. General guidelines suggest engaging in movement appropriate to individual ability and health status, consulting healthcare providers before starting new exercise programs, progressing gradually to avoid injury, including both cardiovascular and strength activities, listening to your body and resting when needed, and choosing activities you enjoy for sustainability.",
+    "category": "wellness",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "preventive_health.txt",
+    "chunk_index": 3
+  },
+  {
+    "text": "SLEEP AND REST IMPORTANCE\n\nAdequate sleep is essential for physical and mental health. Good sleep practices include maintaining a consistent sleep schedule, creating a comfortable dark quiet sleep environment, limiting screen time before bed, avoiding caffeine and heavy meals late in the day, establishing relaxing pre-sleep routines, and consulting healthcare providers about persistent sleep difficulties.",
+    "category": "wellness",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "preventive_health.txt",
+    "chunk_index": 4
+  },
+  {
+    "text": "STRESS MANAGEMENT APPROACHES\n\nChronic stress can affect physical and mental health. Approaches to stress management include regular physical activity, relaxation techniques such as deep breathing or meditation, effective time management, maintaining social connections and support systems, setting realistic expectations and boundaries, and seeking professional help when stress becomes overwhelming.",
+    "category": "wellness",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "preventive_health.txt",
+    "chunk_index": 5
+  },
+  {
+    "text": "PREVENTIVE HEALTH PRACTICES\n\nPreventive care helps identify health concerns early and maintain wellness. Key practices include scheduling regular health check-ups, completing age-appropriate health screenings, staying current with recommended immunizations, maintaining dental and vision care, knowing your family health history, and communicating openly with healthcare providers about health concerns and questions.",
+    "category": "wellness",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "preventive_health.txt",
+    "chunk_index": 6
+  },
+  {
+    "text": "HEALTHCARE DISCLAIMERS",
+    "category": "disclaimer",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "disclaimers.txt",
+    "chunk_index": 0
+  },
+  {
+    "text": "STANDARD EDUCATIONAL DISCLAIMER\n\nThis information is provided for educational purposes only. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read in this document.",
+    "category": "disclaimer",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "disclaimers.txt",
+    "chunk_index": 1
+  },
+  {
+    "text": "MEDICAL CERTIFICATE DISCLAIMER\n\nThis is a computer-generated DRAFT document. This document requires review, completion, and signature by a licensed healthcare professional before it becomes valid for any official purpose. No diagnosis, treatment recommendation, or fitness determination has been made in this draft. This draft is provided for administrative convenience only and does not constitute medical advice or certification.",
+    "category": "disclaimer",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "disclaimers.txt",
+    "chunk_index": 2
+  },
+  {
+    "text": "GENERAL HEALTH INFORMATION DISCLAIMER\n\nThe information provided is general in nature and may not apply to your specific situation. Individual health needs vary significantly based on personal medical history, current conditions, and other factors. Please consult with your healthcare provider for personalized medical advice. This content should not be used for self-diagnosis or self-treatment.",
+    "category": "disclaimer",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "disclaimers.txt",
+    "chunk_index": 3
+  },
+  {
+    "text": "AI-GENERATED CONTENT DISCLAIMER\n\nThis content has been generated with AI assistance using reference materials. While efforts are made to provide accurate and helpful information, AI-generated content should be verified by qualified healthcare professionals. This content does not replace professional medical judgment and should be used for informational purposes only.",
+    "category": "disclaimer",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "disclaimers.txt",
+    "chunk_index": 4
+  },
+  {
+    "text": "EMERGENCY CARE NOTICE\n\nThis document and system are not intended for emergency medical situations. If you are experiencing a medical emergency, please contact emergency services immediately or go to your nearest emergency department. Signs of medical emergency include severe chest pain, difficulty breathing, signs of stroke, severe allergic reactions, loss of consciousness, and severe bleeding.",
+    "category": "disclaimer",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "disclaimers.txt",
+    "chunk_index": 5
+  },
+  {
+    "text": "LIMITATION OF LIABILITY DISCLAIMER\n\nThe healthcare facility and technology providers make no warranties regarding the completeness or accuracy of information provided. Users assume all responsibility for how they use this information. This system is designed to support, not replace, the patient-provider relationship and professional medical judgment.",
+    "category": "disclaimer",
+    "disease": null,
+    "hospital_id": "demo_hospital",
+    "source_file": "disclaimers.txt",
+    "chunk_index": 6
+  }
+]

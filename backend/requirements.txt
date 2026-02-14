@@ -1,0 +1,28 @@
+# Healthcare GenAI SaaS - Backend Dependencies
+
+# Web Framework
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+python-multipart>=0.0.12
+
+# Environment Configuration
+python-dotenv>=1.0.0
+
+# Data Validation
+pydantic>=2.10.0
+
+# MongoDB Async Driver
+motor>=3.6.0
+pymongo>=4.10.0
+
+# Vector Database & Embeddings
+faiss-cpu>=1.9.0
+sentence-transformers>=3.3.0
+
+# HTTP Client for LLM API
+httpx>=0.28.0
+
+# Utilities
+numpy>=2.0.0
+
+# Note: starlette is included with fastapi

@@ -1,0 +1,39 @@
+DISEASE: RESPIRATORY HEALTH CONDITIONS
+Category: disease
+Disease: respiratory_health
+
+---
+
+WHAT IS RESPIRATORY HEALTH
+
+Respiratory health refers to the overall condition and function of the respiratory system, which includes the lungs, airways, and breathing muscles. The respiratory system is responsible for bringing oxygen into the body and removing carbon dioxide. Maintaining good respiratory health is essential for overall well-being and quality of life. Common respiratory concerns range from acute conditions like infections to chronic conditions that require ongoing management. Understanding respiratory health helps individuals make informed decisions about prevention and when to seek care.
+
+---
+
+RESPIRATORY HEALTH RISK FACTORS
+
+Several factors can affect respiratory health and increase risk for respiratory conditions. These include tobacco smoking and exposure to secondhand smoke, air pollution and poor indoor air quality, occupational exposure to dust fumes or chemicals, history of respiratory infections in childhood, family history of respiratory conditions, allergies and allergic reactions, weakened immune system, advancing age, and living in areas with high pollution levels. Certain occupations may carry higher respiratory risks requiring protective measures.
+
+---
+
+RESPIRATORY SYMPTOMS TO MONITOR
+
+Important respiratory symptoms that warrant attention include persistent cough lasting more than three weeks, shortness of breath during normal daily activities, wheezing or noisy breathing, chest tightness or discomfort when breathing, producing mucus or phlegm regularly, coughing up blood or blood-tinged mucus, recurring respiratory infections, unexplained fatigue related to breathing effort, and difficulty breathing when lying down. Changes in breathing patterns or new respiratory symptoms should be discussed with healthcare providers.
+
+---
+
+RESPIRATORY HEALTH LIFESTYLE CONSIDERATIONS
+
+Supporting respiratory health involves several lifestyle practices. These include avoiding tobacco smoke and vaping products, maintaining good indoor air quality through proper ventilation, using air filters when appropriate, practicing good hand hygiene to prevent respiratory infections, staying current with recommended vaccinations, exercising regularly to support lung function, maintaining healthy weight, staying hydrated, avoiding known respiratory irritants and allergens, and using protective equipment in dusty or polluted environments.
+
+---
+
+WHEN TO SEEK CARE FOR RESPIRATORY CONCERNS
+
+Consult a healthcare provider about respiratory health if you experience persistent cough that does not improve, shortness of breath with minimal exertion, wheezing or difficulty breathing, chest pain when breathing or coughing, coughing up blood, recurring respiratory infections, significant changes in breathing patterns, exposure to respiratory hazards at work or home, or have concerns about lung health based on risk factors. Emergency care should be sought for severe breathing difficulty, blue lips or fingernails, or inability to speak due to breathlessness.
+
+---
+
+RESPIRATORY HEALTH AND PREVENTION
+
+Preventive measures play an important role in maintaining respiratory health. Regular health check-ups can help identify potential concerns early. Avoiding known risk factors, particularly smoking, significantly benefits lung health. Protecting the airways from environmental pollutants, maintaining physical fitness to support breathing capacity, and addressing allergies appropriately all contribute to respiratory wellness. Open communication with healthcare providers about respiratory symptoms supports timely evaluation and appropriate guidance.

@@ -1,0 +1,39 @@
+HEALTHCARE DISCLAIMERS
+Category: disclaimer
+Disease: null
+
+---
+
+STANDARD EDUCATIONAL DISCLAIMER
+
+This information is provided for educational purposes only. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read in this document.
+
+---
+
+MEDICAL CERTIFICATE DISCLAIMER
+
+This is a computer-generated DRAFT document. This document requires review, completion, and signature by a licensed healthcare professional before it becomes valid for any official purpose. No diagnosis, treatment recommendation, or fitness determination has been made in this draft. This draft is provided for administrative convenience only and does not constitute medical advice or certification.
+
+---
+
+GENERAL HEALTH INFORMATION DISCLAIMER
+
+The information provided is general in nature and may not apply to your specific situation. Individual health needs vary significantly based on personal medical history, current conditions, and other factors. Please consult with your healthcare provider for personalized medical advice. This content should not be used for self-diagnosis or self-treatment.
+
+---
+
+AI-GENERATED CONTENT DISCLAIMER
+
+This content has been generated with AI assistance using reference materials. While efforts are made to provide accurate and helpful information, AI-generated content should be verified by qualified healthcare professionals. This content does not replace professional medical judgment and should be used for informational purposes only.
+
+---
+
+EMERGENCY CARE NOTICE
+
+This document and system are not intended for emergency medical situations. If you are experiencing a medical emergency, please contact emergency services immediately or go to your nearest emergency department. Signs of medical emergency include severe chest pain, difficulty breathing, signs of stroke, severe allergic reactions, loss of consciousness, and severe bleeding.
+
+---
+
+LIMITATION OF LIABILITY DISCLAIMER
+
+The healthcare facility and technology providers make no warranties regarding the completeness or accuracy of information provided. Users assume all responsibility for how they use this information. This system is designed to support, not replace, the patient-provider relationship and professional medical judgment.

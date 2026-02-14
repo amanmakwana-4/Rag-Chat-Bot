@@ -1,0 +1,39 @@
+MEDICAL CERTIFICATE TEMPLATE GUIDELINES
+Category: template
+Disease: null
+
+---
+
+MEDICAL CERTIFICATE STRUCTURE
+
+A medical certificate is an official document that must follow strict formatting guidelines. The document serves administrative purposes and requires proper authorization before use. Medical certificates may be requested for various purposes including attendance verification, rest period documentation, and fitness assessments. All certificates generated through this system are DRAFT documents requiring clinician review and signature.
+
+---
+
+MEDICAL CERTIFICATE HEADER REQUIREMENTS
+
+The header section of a medical certificate must include the document title clearly stating "MEDICAL CERTIFICATE" in prominent text, the healthcare facility name and complete address, the date of document generation, a unique document reference number for tracking purposes, and clear indication that the document is a DRAFT pending clinician review.
+
+---
+
+MEDICAL CERTIFICATE PATIENT SECTION
+
+The patient information section must include the patient identifier using ID number only (no personal details in draft), a designated space for the patient name to be completed by the reviewing clinician, and the hospital or facility ID for record association. Personal identifying information should be minimized in draft documents and completed only during clinician review.
+
+---
+
+MEDICAL CERTIFICATE BODY CONTENT
+
+The body of the certificate should include the stated purpose of the certificate such as attendance verification or rest period recommendation, the date or dates of medical consultation, recommended rest period if applicable with dates to be confirmed by clinician, space for clinical observations to be completed during review, and clear placeholders for any fields requiring clinician input.
+
+---
+
+MEDICAL CERTIFICATE REQUIRED ELEMENTS
+
+Essential elements for a valid medical certificate include a clinician signature line with space for printed name, the clinician's license number field, the facility stamp or seal area, the official date of issue (after review), and appropriate formatting that meets institutional standards. Draft certificates must clearly indicate they are not valid without proper authorization.
+
+---
+
+MEDICAL CERTIFICATE RESTRICTIONS
+
+Medical certificate drafts must NOT include any diagnostic statements or conclusions, specific treatment or medication information, fitness or unfitness determinations (requires clinical assessment), specific medical conditions without clinician verification, or any information that could be used without proper clinical review. All clinical determinations must be made by the reviewing clinician.

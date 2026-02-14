@@ -1,0 +1,33 @@
+PATIENT EDUCATION GUIDELINES
+Category: guideline
+Disease: null
+
+---
+
+PATIENT EDUCATION PURPOSE
+
+Patient education materials serve to inform and empower individuals about health topics. The goal is to provide understandable information that supports communication between patients and healthcare providers. Education materials should complement not replace professional medical advice.
+
+---
+
+PATIENT EDUCATION LANGUAGE STANDARDS
+
+Use 6th to 8th grade reading level for accessibility. Define medical terms when they must be used. Use short sentences and paragraphs for readability. Include visual organization with headers and bullet points. Avoid condescending tone while maintaining clarity. Write in active voice when possible.
+
+---
+
+PATIENT EDUCATION CONTENT STRUCTURE
+
+Effective patient education includes clear topic identification at the beginning, key information presented in logical order, actionable items the reader can consider, guidance on when to seek professional help, resources for additional information, and clear disclaimer about the educational nature of the content.
+
+---
+
+PATIENT EDUCATION FORMATTING STANDARDS
+
+Format patient education materials with clear descriptive headings, bulleted lists for key points and symptoms, adequate white space for readability, consistent formatting throughout the document, emphasis on important safety information, and contact guidance for questions or concerns.
+
+---
+
+PATIENT EDUCATION REQUIRED DISCLAIMERS
+
+All patient education materials must include statements that the content is for educational purposes only, that individual situations vary and require professional assessment, that the information does not replace medical advice, and that readers should consult healthcare providers for personal health decisions.
