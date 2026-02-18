@@ -374,6 +374,4 @@ This project is for demonstration purposes. Ensure compliance with healthcare re
 ---
 
 **Built with:** React + Vite, FastAPI, FAISS, MongoDB, Tailwind CSS, sentence-transformers
-#   R a g - C h a t - B o t 
- 
- 
+#
