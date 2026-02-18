@@ -94,7 +94,6 @@ pip install -r requirements.txt
 # Copy environment file
 copy .env.example .env
 
-# Edit .env with your settings (see Configuration section below)
 # At minimum, update MONGODB_URL if using Atlas
 
 # Start the server
@@ -239,6 +238,10 @@ Content-Type: application/json
   "message": "Document generated successfully. Save your Document ID."
 }
 ```
+gpt model => tgpt-3.5-turbo
+all-MiniLM-L6-v2
+dimension- 384
+FAISS = Facebook AI Similarity Search
 
 ### Retrieve Document (by ID only)
 ```http
@@ -371,5 +374,6 @@ This project is for demonstration purposes. Ensure compliance with healthcare re
 ---
 
 **Built with:** React + Vite, FastAPI, FAISS, MongoDB, Tailwind CSS, sentence-transformers
-#   R a g - C h a t - B o t  
+#   R a g - C h a t - B o t 
+ 
  
